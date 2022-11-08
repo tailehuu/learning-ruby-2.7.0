@@ -8,6 +8,8 @@ class Report
     ]
   end
 
+  # template method
+  # implement hooks methods in subclass for specific usage
   def output_report
     output_start
     output_head
