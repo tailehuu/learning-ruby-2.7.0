@@ -28,5 +28,7 @@ Interviewer: "Thanks for coming, there's the door."
 - 02 - Strategy Pattern
 
 Example in the folder.
+
 Q: `When we use class-based strategies?`
+
 Q: `Qhen we use block-based strategies?`
