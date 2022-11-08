@@ -4,11 +4,11 @@
 
 ## Story
 
-Interviewer: "What's your favorite pattern?"
+John: "What's your favorite pattern?"
 
-Candidate: "Um... factory?"
+Khoa: "Um... factory?"
 
-Interviewer: "Thanks for coming, there's the door."
+John: "Thanks for coming, there's the door."
 
 ## Patterns
 
