@@ -14,6 +14,10 @@ John: "Thanks for coming, there's the door."
 
 ### 01- Template Method Pattern
 
+`inheritance-based technique`. 
+
+How to run?
+
     require_relative 'html_report'
     require_relative 'plain_text_report'
     
@@ -33,8 +37,13 @@ Q1: `When we use class-based strategies?`
 
 Q2: `Qhen we use block-based strategies?`
 
-### 03 - TBD
+### 03 - Observer Pattern
 
+It's about what do you want to do when something were changed.
+
+In rails, `ApplicationRecord`'s [callbacks](https://guides.rubyonrails.org/active_record_callbacks.html) are good examples of Observer Pattern.
+
+More detail in the document [here](https://ruby-doc.org/stdlib-2.5.3/libdoc/observer/rdoc/Observable.html).
 
 ## References
 
