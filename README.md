@@ -1,5 +1,7 @@
 # Ruby Design Patterns
 
+*This repository is used for my learning only.*
+
 ## Story
 
 Interviewer: "What's your favorite pattern?"
@@ -12,7 +14,6 @@ Interviewer: "Thanks for coming, there's the door."
 
 ### 01- Template Method Pattern
 
-    ```ruby
     require_relative 'html_report'
     require_relative 'plain_text_report'
     
@@ -23,7 +24,6 @@ Interviewer: "Thanks for coming, there's the door."
     # output PlainText report
     report = PlainTextReport.new
     report.output_report
-    ```
 
 ### 02 - Strategy Pattern
 
@@ -32,3 +32,10 @@ Example in the folder.
 Q1: `When we use class-based strategies?`
 
 Q2: `Qhen we use block-based strategies?`
+
+### 03 - TBD
+
+
+## References
+
+- Design Patterns in Ruby - Russ Olsen
