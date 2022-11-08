@@ -1,10 +1,14 @@
 # Ruby Design Patterns
 
+## Story
+
 Interviewer: "What's your favorite pattern?"
 
 Candidate: "Um... factory?"
 
 Interviewer: "Thanks for coming, there's the door."
+
+## Patterns
 
 - Template method pattern
 
