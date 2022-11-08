@@ -10,7 +10,7 @@ Interviewer: "Thanks for coming, there's the door."
 
 ## Patterns
 
-- Template method pattern
+- 01- Template Method Pattern
 
     ```ruby
     require_relative 'html_report'
@@ -25,4 +25,8 @@ Interviewer: "Thanks for coming, there's the door."
     report.output_report
     ```
 
-- ...
+- 02 - Strategy Pattern
+
+Example in the folder.
+Q: `When we use class-based strategies?`
+Q: `Qhen we use block-based strategies?`
