@@ -45,6 +45,16 @@ In rails, `ApplicationRecord`'s [callbacks](https://guides.rubyonrails.org/activ
 
 More detail in the document [here](https://ruby-doc.org/stdlib-2.5.3/libdoc/observer/rdoc/Observable.html).
 
+### 04 - Composite Pattern
+
+Allow us to build arbitrarily deep tree.
+
+Terms:
+
+- `component` class
+- `leaf` classes
+- `composite` classes
+
 ## References
 
 - Design Patterns in Ruby - Russ Olsen
